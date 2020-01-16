@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootStarterParentApplication<spring-boot-starter-parent>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "valarep.springbootstarterparent.SpringBootStarterParentApplication",
+            "projectName": "spring-boot-starter-parent",
+            "args": ""
+        }
+    ]
+}
